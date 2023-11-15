@@ -3,7 +3,7 @@ title: Bla
 layout:  null
 tab: true
 order: 2
-tags: example_tag
+tags: example-tag
 ---
 
 ## Example
