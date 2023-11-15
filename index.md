@@ -8,7 +8,9 @@ type: documentation
 pitch: A very brief, one-line description of your project
 
 ---
-Welcome to Consigliere, your SAST fixing advisor!
+
+**Welcome to Consigliere, your SAST fixing advisor!**
+
 
 ### Project Goal
 
