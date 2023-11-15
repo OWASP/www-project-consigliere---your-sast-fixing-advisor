@@ -1,4 +1,4 @@
-<img width="687" alt="image" src="https://github.com/OWASP/www-project-consigliere---your-sast-fixing-advisor/assets/132216976/7ae2a580-3cb9-447d-8074-ec54674db346">---
+---
 
 layout: col-sidebar
 title: OWASP Consigliere - Your SAST Fixing Advisor
