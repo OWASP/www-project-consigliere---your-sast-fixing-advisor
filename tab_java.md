@@ -1,9 +1,12 @@
 ---
-title: Java
-layout:  null
-tab: true
-order: 1
-tags: null
+
+layout: col-sidebar
+title: test
+tags: example-tag
+level: 2
+type: documentation
+pitch: A very brief, one-line description of your project
+
 ---
 
 ## Example
