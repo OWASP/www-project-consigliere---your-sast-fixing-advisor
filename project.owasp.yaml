@@ -1,0 +1,20 @@
+audience:
+  - breaker
+  - builder
+leaders:
+  - name: Tomer Cohen
+    email: Tomer.Cohen@owasp.org
+    github: tomer-mobb
+level: 2
+name: OWASP Consigliere - Your SAST Fixing Advisor
+pitch: A very brief, one-line description of your project
+repositories:
+  - name: www-project-consigliere---your-sast-fixing-advisor
+    url: https://github.com/OWASP/www-project-consigliere---your-sast-fixing-advisor
+    description: OWASP Foundation Web Repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-consigliere---your-sast-fixing-advisor
